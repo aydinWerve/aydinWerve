@@ -13,7 +13,7 @@
   <br>
   Hi, I'm Merve AYDIN, Computer Engineer & Software Developer from Turkey
   <br><br>
-   I graduated from Karadeniz Technical University Computer Engineering Department in 2020 🤓
+   I graduated from Karadeniz Technical University Computer Engineering Department in 2020🤓
   <br>
 </p>
 
