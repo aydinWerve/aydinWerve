@@ -2,9 +2,6 @@
 
 <br>
 
-<p align="center">
-<img width="800" height="150" src="http://1.bp.blogspot.com/-K1Ksh6m1CQQ/Vck96s1sbYI/AAAAAAAAC8I/D89CpV7wS6c/s320/6963c00sdsdsds9e4f5.gif">
-</p>
 
 <hr>
 <br>
